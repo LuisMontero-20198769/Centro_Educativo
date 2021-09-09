@@ -1,0 +1,13 @@
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.exe
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.deps.json
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.runtimeconfig.json
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.runtimeconfig.dev.json
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.dll
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\bin\Debug\netcoreapp3.1\Centro_Eduacativo.pdb
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.AssemblyInfo.cs
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.csproj.CoreCompileInputs.cache
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.dll
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.pdb
+C:\Users\Edward Montero\Desktop\App C#\Centro_Eduacativo\Centro_Eduacativo\obj\Debug\netcoreapp3.1\Centro_Eduacativo.genruntimeconfig.cache
